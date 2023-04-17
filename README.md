@@ -8,9 +8,9 @@
 - Email : silviareginamakarui@gmail.com
 
 ## PENDIDIKAN
--2017-2020 SMK NEGERI 2 TAHUNA
--2013-2016 SMP NEGERI 3 SATAP TATOARENG
--2006-2012 SDN KALAMA
+- 2017-2020 SMK NEGERI 2 TAHUNA
+- 2013-2016 SMP NEGERI 3 SATAP TATOARENG
+- 2006-2012 SDN KALAMA
 
 <!--
 **silviareginamakarui/silviareginamakarui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
